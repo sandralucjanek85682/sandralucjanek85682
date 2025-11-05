@@ -1,6 +1,6 @@
 # Hej z tej strony Sandra👋❤️❤️❤️
 
-##Technologie, z którymi pracuję😁💕😂😊😘👌❤️
+## Technologie, z którymi pracuję😁💕😂😊😘👌❤️
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
